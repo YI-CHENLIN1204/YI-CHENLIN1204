@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Yi-Chen Lin profile banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F7FAFC"/>
+      <stop offset="100%" stop-color="#EEF6FB"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2F5EA8"/>
+      <stop offset="100%" stop-color="#5AA9D6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1200" height="20" fill="url(#bar)"/>
+  <rect x="950" y="0" width="250" height="300" fill="#2F5EA8" opacity="0.96"/>
+  <rect x="930" y="0" width="20" height="300" fill="#5AA9D6" opacity="0.85"/>
+  <g stroke="#2F5EA8" stroke-width="5" fill="none" stroke-linecap="round">
+    <path d="M42 54 H170"/><path d="M42 72 H140"/><path d="M42 54 V148"/><path d="M60 54 V132"/>
+  </g>
+  <g stroke="#5AA9D6" stroke-width="4" fill="none" stroke-linecap="round" opacity="0.9">
+    <path d="M1040 238 H1160"/><path d="M1072 256 H1160"/><path d="M1142 180 V270"/><path d="M1160 162 V270"/>
+  </g>
+  <text x="88" y="142" font-family="Arial, Noto Sans TC, sans-serif" font-size="44" font-weight="700" fill="#14213D">林奕辰 Yi-Chen Lin</text>
+  <text x="90" y="184" font-family="Arial, Noto Sans TC, sans-serif" font-size="22" fill="#36506B">Information Systems · Backend · Data-Driven Applications</text>
+  <text x="90" y="224" font-family="Arial, Noto Sans TC, sans-serif" font-size="18" fill="#5C677D">從實際問題出發，把資料、系統與技術整合成可以落地的解決方案</text>
+  <g transform="translate(1000 82)">
+    <rect x="0" y="0" width="120" height="120" rx="24" fill="#FFFFFF" opacity="0.96"/>
+    <path d="M26 60 H94 M60 26 V94" stroke="#2F5EA8" stroke-width="10" stroke-linecap="round"/>
+    <circle cx="60" cy="60" r="42" fill="none" stroke="#5AA9D6" stroke-width="4"/>
+  </g>
+</svg>
