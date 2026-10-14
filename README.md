@@ -44,7 +44,7 @@
 
 ---
 
-### 02｜旅客證件 OCR 辨識與資料管理系統
+### 02｜[旅客證件 OCR 辨識與資料管理系統](https://github.com/YI-CHENLIN1204/passport-scanner-v2)
 **Travel Document OCR & Data Management System**
 
 源自旅行社實際證件建檔流程，整合 AI-based OCR、影像處理、資料驗證與人工覆核，將人工輸入改成：
@@ -55,7 +55,7 @@
 
 `Vue 3` `TypeScript` `ASP.NET Core` `PostgreSQL` `PaddleOCR.js / PP-OCRv5` `Docker`
 
-> Repository 目前維持 Private，避免隱私敏感測試資料與證件處理流程被直接公開。
+> Repository 已公開；真實證件影像、旅客個資與 private validation / training data 不進版本庫，公開內容以 source code、synthetic tests、架構與匿名化驗證結果為主。
 
 ---
 
@@ -130,8 +130,8 @@ JavaScript / TypeScript / Vue / HTML / CSS
 
 ## GitHub
 
-目前公開的主要開發專案以 **travel-info-assistant** 為主；  
-其餘涉及個資、產學合作或歷史專題的專案，會依資料敏感度與授權狀況決定是否公開。
+目前主要公開開發專案為 **travel-info-assistant** 與 **passport-scanner-v2**。  
+涉及產學合作、個資或授權限制的內容，會依資料敏感度決定公開範圍，而不是為了展示而直接上傳原始資料。
 
 <div align="center">
 
