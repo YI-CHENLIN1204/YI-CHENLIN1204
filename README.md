@@ -138,8 +138,8 @@ JavaScript / TypeScript / Vue / HTML / CSS
 
 | 專案 | Source Code | 開發紀錄 |
 |---|---|---|
-| 旅客證件 OCR 辨識與資料管理系統 | [Frontend](https://github.com/YI-CHENLIN1204/passport-scanner-v2/tree/main/frontend/src) · [Backend](https://github.com/YI-CHENLIN1204/passport-scanner-v2/tree/main/backend/PassportScanner.Api) | [Commits](https://github.com/YI-CHENLIN1204/passport-scanner-v2/commits/main/) |
-| 跨國公共運輸資訊整合服務 | [Frontend](https://github.com/YI-CHENLIN1204/travel-info-assistant/tree/main/frontend/src) · [Backend](https://github.com/YI-CHENLIN1204/travel-info-assistant/tree/main/backend/src/TravelInfoAssistant.Api) | [Commits](https://github.com/YI-CHENLIN1204/travel-info-assistant/commits/main/) |
+| 旅客證件 OCR 辨識與資料管理系統 | [Frontend](https://github.com/YI-CHENLIN1204/passport-scanner-v2/tree/main/frontend/src) · [Backend](https://github.com/YI-CHENLIN1204/passport-scanner-v2/tree/main/backend/PassportScanner.Api) | [Regression Scripts](https://github.com/YI-CHENLIN1204/passport-scanner-v2/tree/main/frontend/scripts) · [Commits](https://github.com/YI-CHENLIN1204/passport-scanner-v2/commits/main/) |
+| 跨國公共運輸資訊整合服務 | [Frontend](https://github.com/YI-CHENLIN1204/travel-info-assistant/tree/main/frontend/src) · [Backend](https://github.com/YI-CHENLIN1204/travel-info-assistant/tree/main/backend/src/TravelInfoAssistant.Api) | [CI](https://github.com/YI-CHENLIN1204/travel-info-assistant/actions/workflows/ci.yml) · [Commits](https://github.com/YI-CHENLIN1204/travel-info-assistant/commits/main/) |
 
 兩個主力 repository 都保留實際 source code、文件與 Git 開發歷史；敏感資料則與版本庫分離。
 
