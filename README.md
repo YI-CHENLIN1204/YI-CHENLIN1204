@@ -90,7 +90,7 @@ Python / Java / SQL / Data Validation / OCR / Image Processing
 **Database & Infrastructure**  
 PostgreSQL / MySQL / Redis / Docker / Git / GitHub / Linux
 
-**Frontend**  
+**Web / Frontend（基礎）**  
 JavaScript / TypeScript / Vue / HTML / CSS
 
 ---
