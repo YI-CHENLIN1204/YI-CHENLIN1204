@@ -53,6 +53,8 @@
 
 核心重點不是單純「辨識文字」，而是把 AI OCR 輸出轉成經過驗證、比對與人工覆核後可實際使用的旅客資料。
 
+**專案演進：** V1 先以 Vertex AI + Google Sheets 驗證實際建檔流程；V2 再改為 Browser-side OCR + PostgreSQL，加入欄位驗證、旅客比對、證件版本管理與人工覆核。
+
 `Vue 3` `TypeScript` `ASP.NET Core` `PostgreSQL` `PaddleOCR.js / PP-OCRv5` `Docker`
 
 > Repository 已公開；真實證件影像、旅客個資與 private validation / training data 不進版本庫，公開內容以 source code、synthetic tests、架構與匿名化驗證結果為主。
