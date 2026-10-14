@@ -5,6 +5,8 @@
 ### 國立雲林科技大學・資訊管理系二技
 **軟體系統｜後端開發｜資料驅動應用｜系統整合**
 
+[**Passport Scanner V2**](https://github.com/YI-CHENLIN1204/passport-scanner-v2) · [**Travel Info Assistant**](https://github.com/YI-CHENLIN1204/travel-info-assistant)
+
 </div>
 
 ---
